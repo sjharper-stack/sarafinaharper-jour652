@@ -11,10 +11,31 @@ font-size: 14px;
 font-style: italic;
 }
 
+body {
+    font-size: 13px;
+    font-family: Georgia, serif;
+    
+}
+
+h1 {font-family: Verdana, sans-serif;
+    
+}
+
+
 
 blockquote {
     font-size:25px;
     font-weight: bold;
     color:orange; 
     
+}
+
+
+
+img {
+    width: 100%;
+}
+
+.image-caption {
+    font-size: 12px;
 }
