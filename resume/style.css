@@ -4,15 +4,26 @@ body {
     color:#444;
 }
 
-h1 {
+#name {
     font-size:3em;
     color:#33485e;
     text-transform: uppercase;
     text-align: center;
+    border-bottom: 1px solid #33485e;
+    width: 60%;
+    min-width: 300px;
+    margin: 0 auto;
 }
 
-strong {   
+#title{   
     font-size:1.5em;
     text-transform: uppercase;
     color: #33485e;
+}
+#container{ 
+    width: 100%;
+    max-width:1200px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+    
 }
