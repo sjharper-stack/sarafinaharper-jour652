@@ -1,8 +1,12 @@
 h1{color:purple;
     font-family:"Times New Roman",Georgia,serif;}
+h2 {font-family:"Times New Roman",Georgia,serif; }
 h3{color:mediumpurple;
 font-family:"Times New Roman",Georgia,serif;}
 p{color:black;
 font-family:Verdana,"Trebuchet MS",sans-serif;}
 
 #footer{background-color: aqua;}
+
+blockquote{color:darkgreen;
+    font-size:x-large;}
