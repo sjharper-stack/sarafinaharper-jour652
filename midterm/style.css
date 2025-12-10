@@ -1,0 +1,39 @@
+h1{font-family:"Times New Roman",Georgia,Serif;
+    font-size:30px
+        
+        
+        }
+
+h2{font-family: "Times New Roman",Georgia,Serif;
+   font-size:20px; 
+}
+
+body{font-family: verdana,ariel,sans-serif;
+font-size: 12px;
+}
+/*end of specific directions*/
+
+img{
+    border-radius:8px;
+  width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+}
+
+img.lead-image{
+    border-radius:8px;
+
+    height: 60em; 
+
+}
+
+img.banner{
+    min-width:900px;
+    aspect-ratio:auto;
+}
+
+
+
+    
+
+
