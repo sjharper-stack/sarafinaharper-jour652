@@ -27,3 +27,79 @@ body {
     padding-bottom: 50px;
     
 }
+
+#sectionheader{
+    font-size:1.5em;
+    text-transform: uppercase;
+    background-color:#33485e;
+    color:white;
+    font-weight:400;
+    margin-top: 5px;
+    margin-bottom:5px;
+    margin-right: 0;
+    margin-left:10px;
+    width:100%;
+    min-width: 300px;
+    }
+
+#jobtitle{
+font-size:1.5em;
+font-weight:600;
+}
+
+#organization{
+font-size:1.2em;
+    font-weight:400;
+    font-style:italic;
+    }
+
+#date{
+    margin-top:2px;
+        margin-bottom:0;
+    margin-left: 0;
+    margin-right:0;
+    font-weight: 700;
+    font-size:1em;
+    }
+
+#ul{
+    font-size:1em; 
+}
+
+#description {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left:0;
+    margin-right:0;
+    
+}
+
+#ul.menu{
+    margin-top: 10px;
+    margin-bottom:20px;
+    
+}
+
+#degrees{
+    margin-top: 5px;
+    margin-bottom:0,
+        margin-left:0;
+    margin-right:0;
+}
+    
+ do{margin-top:20}
+    
+    
+
+
+#headshot{
+    width: 120px;
+    height:120px;
+     object-fit: cover;
+    border-radius: 50%;
+    border-color: #33485e;
+        border-width:20px;
+    
+    
+    
+}
