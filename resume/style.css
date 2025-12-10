@@ -101,4 +101,18 @@ font-size:1.2em;
         border-width:20px;
     }
 
-#headshot-container
+#headshot-container{
+    text-align: center;
+    }
+
+a:link{
+    font-weight:600;
+    color:#0bc5f4;
+    }
+
+a:hover{
+    color:#33485e;
+    }
+
+a:visited{color:#6e38c7;
+}
