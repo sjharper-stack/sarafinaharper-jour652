@@ -32,12 +32,13 @@ img.banner{
     aspect-ratio:auto;
 }
 
+.byline {font-size:14px}
 
 
     
-#article{
+.article{
 width:50%;
-text-align:center;
+place-items: center;
 }
 
 
