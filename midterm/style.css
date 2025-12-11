@@ -2,16 +2,20 @@ h1{font-family:"Times New Roman",Georgia,Serif;
     font-size:30px
         
         
-        }
+}
+/*step 4 HEADLINE*/
 
 h2{font-family: "Times New Roman",Georgia,Serif;
    font-size:20px; 
-}
+} 
+/*step 4 SUBHEADINGS*/
 
 body{font-family: verdana,ariel,sans-serif;
 font-size: 12px;
-}
-/*end of specific directions*/
+} 
+/*Step 4 STORYTEXT*/
+
+
 
 img{
     border-radius:8px;
@@ -39,6 +43,15 @@ img.banner{
 .article{
 width:50%;
 place-items: center;
+}
+
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+font-size: x-large
 }
 
 
